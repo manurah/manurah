@@ -2,9 +2,9 @@
 
 ### AI & Data Science | Building Smart Solutions
 
-I'm an Artificial Intelligence and Data Science undergraduate at the Informatics Institute of Technology (IIT), Sri Lanka, affiliated with Robert Gordon University (RGU).
+I'm an Artificial Intelligence and Data Science undergraduate at the Informatics Institute of Technology (IIT) affiliated with Robert Gordon University (RGU).
 
-I'm passionate about using AI, machine learning, and data to solve real-world problems. I enjoy exploring new technologies, building practical applications, and turning data into meaningful insights.
+I'm passionate about using AI, machine learning and data to solve real-world problems. I enjoy exploring new technologies, building practical applications, and turning data into meaningful insights.
 
 ### 🚀 What I'm Working On
 
